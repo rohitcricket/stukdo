@@ -54,3 +54,6 @@ gem "simple_form"
 
 #Use devise for authentication
 gem "devise"
+
+#Use auto_html for Rails extension for transforming URLs to appropriate resource (image, link, YouTube, Vimeo video,...)
+gem "auto_html"
